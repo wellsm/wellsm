@@ -61,8 +61,8 @@ A modern, customizable **Linktree-style application** built to manage and share 
 
 ## 📊 GitHub Stats  
 
-![Well's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonsdsm&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonsdsm&layout=compact&theme=radical)  
+![Well's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellsm&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellsm&layout=compact&theme=radical)  
 
 ---
 
