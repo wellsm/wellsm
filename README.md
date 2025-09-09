@@ -10,7 +10,7 @@ PHP (Laravel) • Node.js (TypeScript) • React • Docker
 - 9+ years building **APIs** and full-stack applications
 - Focused on **PHP (Laravel)** and **Node.js (TypeScript)** for back-end
 - Front-end with **React + Tailwind**
-- Experienced in **optimizing queries and processes** (up to 500% faster)
+- Experienced in **optimizing queries and processes**
 - Breaking down **legacy systems** into clean, modern architectures
 - Passionate about clean code, testing, and performance
 
@@ -56,6 +56,17 @@ A modern, customizable **Linktree-style application** built to manage and share 
   - Modern UI with responsive design  
   - Simple deployment (Docker-ready)  
 - **Use case:** perfect for personal branding, portfolios, or business link hubs. 
+
+### 🌐 Scrapper API
+A web scraping service built with **Node.js, Express, and Puppeteer** that allows you to extract HTML content from web pages using CSS selectors.  
+- **Repository:** [scrapper](https://github.com/wellsm/scrapper) → Node.js + TypeScript + Puppeteer + Docker  
+- **Features:**  
+  - Simple REST API endpoint (`GET /handle`)  
+  - CSS selector-based content extraction
+  - Built with TypeScript and containerized with Docker  
+- **API Usage:** `GET /handle?url=https://example.com&selector=.main-content`  
+- **Use case:** Extract specific content from any webpage programmatically for data analysis, monitoring, or integration purposes.
+
 
 ---
 
