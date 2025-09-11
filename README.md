@@ -67,6 +67,14 @@ A web scraping service built with **Node.js, Express, and Puppeteer** that allow
 - **API Usage:** `GET /handle?url=https://example.com&selector=.main-content`  
 - **Use case:** Extract specific content from any webpage programmatically for data analysis, monitoring, or integration purposes.
 
+### 🌐 Word Book
+A modern, interactive vocabulary learning application built for language learners who want to build and test their vocabulary in an engaging way.
+- **Repository:** [word-book](https://github.com/wellsm/word-book) → React + Tailwind + Shadcn + Vite
+- **Features:**  
+  - Add/Edit Words with their meanings
+  - Random Quiz to test your knowledge
+  - Hide/Show Toggle individual and all words
+- **Use case:** perfect for learning and practicing vocabulary in any language.
 
 ---
 
