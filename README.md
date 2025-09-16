@@ -47,45 +47,37 @@ PHP (Laravel) • Node.js (TypeScript) • React • Docker
 
 ## 🚀 Projects
 
-### 🌐 Bio Project
+### 👤 Bio Project
 A modern, customizable **Linktree-style application** built to manage and share all important links in a single page.  
 - **Frontend:** [bio-web](https://github.com/wellsm/bio-web) → React + Tailwind + Shadcn + Vite  
-- **Backend:** [bio-api](https://github.com/wellsm/bio-api) → HyperF (Swoole-PHP) + MySQL/Postgres + Docker   
-- **Features:**  
-  - Add and organize unlimited links  
-  - Modern UI with responsive design  
-  - Simple deployment (Docker-ready)  
-- **Use case:** perfect for personal branding, portfolios, or business link hubs. 
+- **Backend:** [bio-api](https://github.com/wellsm/bio-api) → HyperF (Swoole-PHP) + MySQL/Postgres + Docker
+- **Use case:** Perfect for personal branding, portfolios, or business link hubs. 
 
-### 🌐 Scrapper API
+### 🔍 Scrapper API
 A web scraping service built with **Node.js, Express, and Puppeteer** that allows you to extract HTML content from web pages using CSS selectors.  
-- **Repository:** [scrapper](https://github.com/wellsm/scrapper) → Node.js + TypeScript + Puppeteer + Docker  
-- **Features:**  
-  - Simple REST API endpoint (`GET /handle`)  
-  - CSS selector-based content extraction
-  - Built with TypeScript and containerized with Docker  
-- **API Usage:** `GET /handle?url=https://example.com&selector=.main-content`  
+- **Repository:** [scrapper](https://github.com/wellsm/scrapper) → Node.js + TypeScript + Puppeteer + Docker
 - **Use case:** Extract specific content from any webpage programmatically for data analysis, monitoring, or integration purposes.
 
-### 🌐 Word Book
+### 📑 Word Book
 A modern, interactive vocabulary learning application built for language learners who want to build and test their vocabulary in an engaging way.
 - **Repository:** [word-book](https://github.com/wellsm/word-book) → React + Tailwind + Shadcn + Vite
-- **Features:**  
-  - Add/Edit Words with their meanings
-  - Random Quiz to test your knowledge
-  - Hide/Show Toggle individual and all words
-- **Use case:** perfect for learning and practicing vocabulary in any language.
+- **Use case:** Perfect for learning and practicing vocabulary in any language.
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Well's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellsm&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellsm&layout=compact&theme=radical)  
+<div>
+  <a href="https://github.com/marioliver7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellsm&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtonsdsm)  
+## 🌐 Connect with Me
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtonsdsm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wellingtonsdsm@gmail.com)  
 
